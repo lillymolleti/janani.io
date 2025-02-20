@@ -994,10 +994,10 @@ section,
 
 .portfolio .portfolio-item {
 
-  border-color:grey;
+  /* border-color:grey;
   border-radius:20px;
-  border-style:solid;
-  border-width:1px;
+  border-style:solid; */
+  /* border-width:1px; */
   padding:8px;
   margin:10px;
 
@@ -1627,4 +1627,12 @@ section,
 --------------------------------------------------------------*/
 .starter-section {
   /* Add your styles here */
+}
+.border-for-img
+{
+  border:1px;
+  margin:10px;
+  text-align:center;
+  height:200px;
+  width:200px;
 }
